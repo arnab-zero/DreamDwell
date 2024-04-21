@@ -1,0 +1,129 @@
+[
+  {
+    "residence_image": [
+      "https://theluxurytravelbook.com/wp-content/uploads/2024/04/DSC3162-Edit_result.jpg",
+      "https://theluxurytravelbook.com/wp-content/uploads/2024/04/DSC3162-Edit_result.jpg",
+      "https://theluxurytravelbook.com/wp-content/uploads/2024/04/DSC0662_result.jpg",
+      "https://theluxurytravelbook.com/wp-content/uploads/2024/04/DSC0664-Edit_result.jpg",
+      "https://theluxurytravelbook.com/wp-content/uploads/2024/04/DSC0683_result.jpg",
+      "https://theluxurytravelbook.com/wp-content/uploads/2024/04/DSC3229-Edit_result.jpg",
+      "https://theluxurytravelbook.com/wp-content/uploads/2024/04/DSC0699_result.jpg",
+      "https://theluxurytravelbook.com/wp-content/uploads/2024/04/DSC3271_result.jpg",
+      "https://theluxurytravelbook.com/wp-content/uploads/2024/04/DSC3324-Edit_result.jpg"
+    ],
+    "residence_title": "Villa Borgo Carige",
+    "residence_id": "001",
+    "segment_name": "Luxury",
+    "description": "A stunning villa surrounded by lush greenery, offering tranquility and luxury living.",
+    "price": 1500000,
+    "status": "sale",
+    "area": 5000,
+    "location": "Borgo Carige, Tuscany, Italy",
+    "facilities": ["Swimming pool", "Garden", "Gym", "Jacuzzi"]
+  },
+  {
+    "residence_image": [
+      "https://media-cdn.tripadvisor.com/media/vr-splice-j/12/5e/69/7a.jpg",
+      "https://media-cdn.tripadvisor.com/media/vr-splice-j/12/5e/69/87.jpg",
+      "https://media-cdn.tripadvisor.com/media/vr-splice-j/12/5e/6b/07.jpg",
+      "https://media-cdn.tripadvisor.com/media/vr-splice-j/12/5e/69/8a.jpg",
+      "https://media-cdn.tripadvisor.com/media/vr-splice-j/12/5e/69/91.jpg",
+      "https://media-cdn.tripadvisor.com/media/vr-splice-j/12/5e/69/8c.jpg"
+    ],
+    "residence_title": "Modern Apartment in the City Center",
+    "residence_id": "002",
+    "segment_name": "Urban",
+    "description": "A sleek and contemporary apartment located in the heart of the city, offering convenience and style.",
+    "price": 3000,
+    "status": "rent",
+    "area": 1000,
+    "location": "Warsaw, Poland",
+    "facilities": [
+      "Pet Friendly",
+      "24/7 Security",
+      "Free Wifi",
+      "Community Room"
+    ]
+  },
+  {
+    "residence_image": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/402133200.jpg?k=ae0246b0bd65b27ac8b13b8f3501c6599a8b25153dbed4c9fdc36cfca8148e92&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404430999.jpg?k=fe9f97b6b0053c289a4949a82538f8064ddc06d4b617ec6624a5ae1f9c6d0212&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404431049.jpg?k=4c55e1dac27187ed24cdfd2db70f93a327e5b1703efb145c55a628ea864d5f5c&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404430994.jpg?k=113079215528fa2642fd4ca423ade69130ca98fcc1da2b0d0d8643e5cb53a9df&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/404428726.jpg?k=25a9a4cd4db1a7629676c3766a021f5ef2781cc498cd5bbb96d45b5c2f139779&o=&hp=1"
+    ],
+    "residence_title": "Cozy Cabin by the Lake",
+    "residence_id": "003",
+    "segment_name": "Nature",
+    "description": "A charming cabin nestled by the lake, perfect for a peaceful getaway surrounded by nature.",
+    "price": 5000,
+    "status": "rent",
+    "area": 1500,
+    "location": "57 Rådsbyntie, 10520 Gennarby, Finland",
+    "facilities": ["Boat Dock", "Fireplace", "Deck", "BBQ Area"]
+  },
+  {
+    "residence_image": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266406815.jpg?k=a43ac27bbd10b011129c67aa04b5958fda860c03839ad67eeffe0a1478e44fce&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266406892.jpg?k=dfe5797b4dfacd4d0a3360bce35210603b09457cf9081a607d4da2f426b232f0&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266406904.jpg?k=698a4267a1a9972977f9d2c6cf9868e66e9a87eb6d9378a71af9aa79ec9d0397&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266406777.jpg?k=b66c19cb56db5325a25f420d7ba2792a46d9ecbd56a082c4d2899c0af010acd3&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266406805.jpg?k=94c8bf5f0c39c308e3c8f5bf00384d4603e04b980cc84420eb3cd369d166ecd8&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266406908.jpg?k=7ca4cf76e5a339296b39d3a0de5cd28eb19729dc9d9ad180a565bc6836decaf8&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266410267.jpg?k=fa78e1059fb293cc45b3fd1a6041e26ce20ba52dc0361c4bf32049bf67b72874&o=&hp=1",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/266406783.jpg?k=d58cdb2f3821bf01aeee64dfaa044bf1c132f57ecc3c0a5fbf662affd380aa85&o=&hp=1"
+    ],
+    "residence_title": "Luxurious Penthouse with Ocean View",
+    "residence_id": "004",
+    "segment_name": "Luxury",
+    "description": "A lavish penthouse offering breathtaking ocean views and top-notch amenities.",
+    "price": 2500000,
+    "status": "sale",
+    "area": 4000,
+    "location": "12 Paseo de los Pescadores Apartment 4, 35139 Puerto de Mogán, Spain",
+    "facilities": [
+      "Private Terrace",
+      "Infinity Pool",
+      "Boat Dock",
+      "Gourmet Kitchen",
+      "Concierge Service"
+    ]
+  },
+  {
+    "residence_image": [
+      "https://images.trvl-media.com/lodging/71000000/70510000/70501700/70501694/d8b60c8b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/71000000/70510000/70501700/70501694/113fb8c5.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/71000000/70510000/70501700/70501694/646d61f8.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/71000000/70510000/70501700/70501694/e5738a20.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/71000000/70510000/70501700/70501694/a7737ec1.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+    ],
+    "residence_title": "Charming Cottage in the Woods",
+    "residence_id": "005",
+    "segment_name": "Nature",
+    "description": "A quaint cottage hidden in the woods, offering serenity and seclusion amidst nature.",
+    "price": 3000,
+    "status": "rent",
+    "area": 1200,
+    "location": "Neck Heights, Wellfleet",
+    "facilities": ["Wood Stove", "Patio", "Garden", "Trails"]
+  },
+  {
+    "residence_image": [
+      "https://ravagnans.com/wp-content/uploads/2024/02/SS-GiovanniePaolo7383.jpg",
+      "https://ravagnans.com/wp-content/uploads/2024/02/SS-GiovanniePaolo7378.jpg",
+      "https://ravagnans.com/wp-content/uploads/2024/02/SS-GiovanniePaolo7394.jpg",
+      "https://ravagnans.com/wp-content/uploads/2024/02/SS-GiovanniePaolo7375.jpg",
+      "https://ravagnans.com/wp-content/uploads/2024/02/20230525_135045.jpg"
+    ],
+    "residence_title": "Elegant Mansion with Garden",
+    "residence_id": "006",
+    "segment_name": "Luxury",
+    "description": "An elegant mansion featuring a sprawling garden, perfect for grand entertaining and relaxation.",
+    "price": 5000000,
+    "status": "sale",
+    "area": 10000,
+    "location": "Castello, Venice Italy",
+    "facilities": ["Pool House", "Tennis Court", "Home Theater", "Wine Cellar"]
+  }
+]
